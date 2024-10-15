@@ -10,8 +10,6 @@
 - 💞️ I’m looking to collaborate on real-world problem⚡.
 - 📫 How to reach me at ateeq.in.com@gmail.com
 - 👀 looking for an oppourtunity in frontend developer
-- ⚡ Pronouns: she/her
-- 😄 Fun fact: I once built a chatbot just for fun that can tell jokes and play trivia games!😄its a fun😄"
 
 <!---
 Muskanateeq/Muskanateeq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
