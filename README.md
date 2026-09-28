@@ -2,7 +2,7 @@
 
 **AI Engineer | Agentic AI | LLM & RAG Engineer | Full-Stack AI developer**
 
-I build production-oriented AI products that combine tool-using agents, retrieval, APIs, event-driven automation, and modern full-stack interfaces—from multi-channel support systems to AI-powered knowledge platforms.
+I build production-oriented AI products that combine tool-using agents, retrieval, APIs, event-driven automation, and modern full-stack interfaces from multi-channel support systems to AI-powered knowledge platforms.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-111827?style=flat-square&logo=vercel&logoColor=white)](https://muskan-atiq-muskanateeqs-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-muhammad-atiq-agentic-ai-expert)
