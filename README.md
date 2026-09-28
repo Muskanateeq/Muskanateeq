@@ -1,6 +1,6 @@
 # Hi, I'm Muskan Atiq 👋
 
-**AI Engineer | Agentic AI | LLMs | RAG | Full-Stack AI Systems**
+**AI Engineer | Agentic AI | LLM & RAG Engineer | Full-Stack AI Systems**
 
 I build production-oriented AI products that combine tool-using agents, retrieval, APIs, event-driven automation, and modern full-stack interfaces—from multi-channel support systems to AI-powered knowledge platforms.
 
