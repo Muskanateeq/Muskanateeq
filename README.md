@@ -1,8 +1,8 @@
 # Hi, I'm Muskan Atiq 👋
 
-**AI Engineer | Agentic AI | LLM & RAG Engineer | Full-Stack AI developer**
+**AI Engineer | Agentic AI | LLMs | RAG | Full-Stack AI Systems**
 
-I build production-oriented AI products that combine tool-using agents, retrieval, APIs, event-driven automation, and modern full-stack interfaces from multi-channel support systems to AI-powered knowledge platforms.
+I build production-oriented AI products that combine tool-using agents, retrieval, APIs, event-driven automation, and modern full-stack interfaces—from multi-channel support systems to AI-powered knowledge platforms.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-111827?style=flat-square&logo=vercel&logoColor=white)](https://muskan-atiq-muskanateeqs-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-muhammad-atiq-agentic-ai-expert)
@@ -26,27 +26,51 @@ I build production-oriented AI products that combine tool-using agents, retrieva
 **AI / LLM Engineering**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=111827)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=flat-square&logo=openai&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-20232A?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-0F766E?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-0B7285?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-5A67D8?style=flat-square)
+![LLM Fine-Tuning](https://img.shields.io/badge/LLM_Fine--Tuning-B45309?style=flat-square)
 ![Vector Search](https://img.shields.io/badge/Embeddings_%26_Vector_Search-7C3AED?style=flat-square)
+![API Integration](https://img.shields.io/badge/API_Integration-2563EB?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-AI_Automation-334155?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-111827?style=flat-square&logo=openai&logoColor=white)
 
 **Backend & APIs**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-2563EB?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-0F766E?style=flat-square)
+![Caching](https://img.shields.io/badge/Caching-DC382D?style=flat-square)
 ![Webhooks](https://img.shields.io/badge/Webhooks-F97316?style=flat-square)
 ![SSE](https://img.shields.io/badge/SSE_%2F_Streaming-0891B2?style=flat-square)
 
 **Databases & Retrieval**
 
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=111827)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![Chroma](https://img.shields.io/badge/Chroma-F59E0B?style=flat-square)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
 **Frontend**
@@ -54,7 +78,9 @@ I build production-oriented AI products that combine tool-using agents, retrieva
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 **DevOps & Delivery**
 
@@ -62,6 +88,10 @@ I build production-oriented AI products that combine tool-using agents, retrieva
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Model Monitoring](https://img.shields.io/badge/Model_Monitoring-475569?style=flat-square)
 
 ---
 
