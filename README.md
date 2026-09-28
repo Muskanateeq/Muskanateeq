@@ -7,7 +7,6 @@ I build production-oriented AI products that combine tool-using agents, retrieva
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-111827?style=flat-square&logo=vercel&logoColor=white)](https://muskan-atiq-muskanateeqs-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-muhammad-atiq-agentic-ai-expert)
 [![Email](https://img.shields.io/badge/Email-muskan.in.com786%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:muskan.in.com786@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Muskanateeq-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Muskanateeq)
 
 ---
 
